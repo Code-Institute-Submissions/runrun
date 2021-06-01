@@ -1,7 +1,7 @@
 # Love Running
 
 This website was created with the hopes of getting running enthusiast in Dublin, Ireland to particpate together while also enjoying each others company, the goal; TO BUILD FRIENDSHIPS ON THE GO!.
-We at "Love Running" wish to create groups that are will people to be more motivated because to run since they will not be running alone.
+We at "Love Running" wish to create groups that inspire people to be more motivated because to run since they will not be running alone.
 
 ## *FEATURES
 
