@@ -29,3 +29,33 @@ A compliation of runners to portay the running spirit to further push you to fee
 
 ## SIGN-UP FORM
 Where one would go to sign up to join the Love running community.
+
+
+
+## *TESTING
+
+Validator Testing
+### HTML
+No errors were returned when passing through the official W3C validator
+### CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+## Deployment
+
+### Github
+The site was deployed to GitHub pages.
+#### Steps to deploy:
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Master Branch
+3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+4. link to the website: https://ap-solo.github.io/runrun/
+
+## Credit
+### Content
+The text for the Home page was taken from Wikipedia Article A
+Instructions on how to implement form validation on the Sign Up page was taken from [Code institute](https://code-institute-org.github.io/love-running-2.0/index.html).
+
+The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
+### Media
+The photos used on the home and sign up page are from This Open Source site
+The images used for the gallery page were taken from this other open source site
