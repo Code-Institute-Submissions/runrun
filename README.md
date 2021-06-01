@@ -1,3 +1,5 @@
+### DISCLAIMER
+This webite was created with the specific guidance of Code Institute as a starting basis and contain some changes to the code but mainly follows specific advice!
 # Love Running
 
 This website was created with the hopes of getting running enthusiast in Dublin, Ireland to particpate together while also enjoying each others company. The goal; TO BUILD FRIENDSHIPS ON THE GO!.
