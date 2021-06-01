@@ -1,12 +1,12 @@
 # Love Running
 
-This website was created with the hopes of getting running enthusiast in Dublin, Ireland to particpate together while also enjoying each others company; To build fiendships on the go!.
+This website was created with the hopes of getting running enthusiast in Dublin, Ireland to particpate together while also enjoying each others company, the goal; TO BUILD FRIENDSHIPS ON THE GO!.
 We at "Love Running" wish to create groups that are will people to be more motivated because to run since they will not be running alone.
 
 ## *FEATURES
 
 ### *Navigation*
-To begin there are three links being the Home, Gallery and Sign-up located consistently on all three pages to bring you back from one to the other easily.
+To begin there are three links being the Home, Gallery and Sign-up located consistently on all three pages to bring you back or foward from one to the other easily.
 
 ## *Home Page
 ### *IMAGE*
